@@ -96,5 +96,33 @@ export const GENERATE_SORT_BY_AUTHOR_OPTIONS = [
 	},
 ];
 
+export const SKILLS = [
+	{
+		name: "Javascript",
+		image: "/javascript.png",
+		progress: 0.8,
+	},
+	{
+		name: "Python",
+		image: "/python.png",
+		progress: 0.7,
+	},
+	{
+		name: "HTML",
+		image: "/html.png",
+		progress: 0.9,
+	},
+	{
+		name: "CSS",
+		image: "/css.png",
+		progress: 0.9,
+	},
+	{
+		name: "React",
+		image: "/react.png",
+		progress: 0.7,
+	},
+];
+
 export const AUTHOR_PER_PAGE = 2;
 export const BOOK_PER_PAGE = 4;

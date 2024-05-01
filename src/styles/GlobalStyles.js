@@ -35,6 +35,15 @@ const GlobalStyles = styled.createGlobalStyle`
 			--color-red-700: #b91c1c;
 			--color-red-800: #991b1b;
 
+			--color-bg-1: #6797ff;
+			--color-bg-2: #6797df;
+			--color-bg-3: #a2c7ff;
+			--color-bg-4: #dbf4ff;
+
+			--color-name-1: #3c5e75;
+			--color-name-2: #1f4057;
+			--color-name-3: #0a2e46;
+
 			--backdrop-color: rgba(255, 255, 255, 0.1);
 
 			--shadow-sm: 0 1px 2px rgba(0, 0, 0, 0.04);
@@ -74,6 +83,15 @@ const GlobalStyles = styled.createGlobalStyle`
 			--color-red-100: #fee2e2;
 			--color-red-700: #b91c1c;
 			--color-red-800: #991b1b;
+
+			--color-bg-1: #223366;
+			--color-bg-2: #446699;
+			--color-bg-3: #6699cc;
+			--color-bg-4: #88ccee;
+
+			--color-name-1: #74bef7;
+			--color-name-2: #4aa0d9;
+			--color-name-3: #3b95d1;
 
 			--backdrop-color: rgba(0, 0, 0, 0.3);
 
